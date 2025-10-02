@@ -1,0 +1,23 @@
+# ninja log v5
+2	390	1759384302501958192	CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj	d7dd59ea8fca452c
+2	393	1759384302500279100	CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj	645a8d7391ce7830
+2	418	1759384302529541425	CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj	b13370f50687d9cd
+6	449	1759384302561208490	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pwr.c.obj	393d57299ef21db3
+4	465	1759384302564691514	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_flash.c.obj	216c96fb5eea48b4
+5	486	1759384302597835750	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj	369d21586852b0fd
+3	527	1759384302638511544	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj	283f1303d9da4c07
+8	535	1759384302646111959	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj	fb245647bf3c16bd
+7	551	1759384302661863545	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pwr_ex.c.obj	580c44ff9e8df4b5
+4	552	1759384302663533254	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_flash_ex.c.obj	9c4cb9b5c7364d13
+3	562	1759384302672750163	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj	cc5a1226c6fc37d3
+466	580	1759384302692575178	CMakeFiles/polyvarium_v2.dir/Core/Src/sysmem.c.obj	6b6f4f21eb04772e
+527	604	1759384302717521157	CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj	5dc39dc6a58ad98d
+5	612	1759384302723161197	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c.obj	4fbea44ba663f01d
+486	669	1759384302782475768	CMakeFiles/polyvarium_v2.dir/Core/Src/syscalls.c.obj	aa1e6898c540be8e
+3	842	1759384302950860176	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj	e524230e2cc5205d
+418	851	1759384302962856327	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim_ex.c.obj	5e4d76c1555565de
+393	865	1759384302976221783	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim.c.obj	f94d59c262767a17
+391	883	1759384302993708917	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj	8ad9d9d6bd6cf778
+449	895	1759384303008194980	CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj	1051aee35576ec9c
+5	901	1759384303013188252	CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma_ex.c.obj	a3f76fe0479dca6e
+901	1016	1759384303127939482	polyvarium_v2.elf	89b75b76006f5237
