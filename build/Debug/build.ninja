@@ -49,6 +49,38 @@ cmake_ninja_workdir = /Users/marc/git/Polyvarium_v2/build/Debug/
 
 build cmake_object_order_depends_target_polyvarium_v2: phony || CMakeFiles/polyvarium_v2.dir
 
+build CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj: C_COMPILER__polyvarium_v2_unscanned_Debug /Users/marc/git/Polyvarium_v2/Core/Src/events.c || cmake_object_order_depends_target_polyvarium_v2
+  DEFINES = -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj.d
+  FLAGS = -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  INCLUDES = -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include
+  OBJECT_DIR = CMakeFiles/polyvarium_v2.dir
+  OBJECT_FILE_DIR = CMakeFiles/polyvarium_v2.dir/Core/Src
+
+build CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj: C_COMPILER__polyvarium_v2_unscanned_Debug /Users/marc/git/Polyvarium_v2/Core/Src/fsm.c || cmake_object_order_depends_target_polyvarium_v2
+  DEFINES = -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj.d
+  FLAGS = -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  INCLUDES = -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include
+  OBJECT_DIR = CMakeFiles/polyvarium_v2.dir
+  OBJECT_FILE_DIR = CMakeFiles/polyvarium_v2.dir/Core/Src
+
+build CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj: C_COMPILER__polyvarium_v2_unscanned_Debug /Users/marc/git/Polyvarium_v2/Core/Src/inputs.c || cmake_object_order_depends_target_polyvarium_v2
+  DEFINES = -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj.d
+  FLAGS = -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  INCLUDES = -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include
+  OBJECT_DIR = CMakeFiles/polyvarium_v2.dir
+  OBJECT_FILE_DIR = CMakeFiles/polyvarium_v2.dir/Core/Src
+
+build CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj: C_COMPILER__polyvarium_v2_unscanned_Debug /Users/marc/git/Polyvarium_v2/Core/Src/timers.c || cmake_object_order_depends_target_polyvarium_v2
+  DEFINES = -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj.d
+  FLAGS = -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11
+  INCLUDES = -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include
+  OBJECT_DIR = CMakeFiles/polyvarium_v2.dir
+  OBJECT_FILE_DIR = CMakeFiles/polyvarium_v2.dir/Core/Src
+
 build CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj: C_COMPILER__polyvarium_v2_unscanned_Debug /Users/marc/git/Polyvarium_v2/Core/Src/main.c || cmake_object_order_depends_target_polyvarium_v2
   DEFINES = -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj.d
@@ -225,7 +257,7 @@ build CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj: ASM_COMPILER__poly
 #############################################
 # Link the executable polyvarium_v2.elf
 
-build polyvarium_v2.elf: C_EXECUTABLE_LINKER__polyvarium_v2_Debug CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_flash.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_flash_ex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma_ex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pwr.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pwr_ex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim_ex.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/sysmem.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/syscalls.c.obj CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+build polyvarium_v2.elf: C_EXECUTABLE_LINKER__polyvarium_v2_Debug CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_flash.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_flash_ex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma_ex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pwr.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pwr_ex.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim.c.obj CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim_ex.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/sysmem.c.obj CMakeFiles/polyvarium_v2.dir/Core/Src/syscalls.c.obj CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
   FLAGS = -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g
   OBJECT_DIR = CMakeFiles/polyvarium_v2.dir
   POST_BUILD = :

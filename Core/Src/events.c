@@ -25,7 +25,7 @@ static inline bool rb_empty_u16(uint16_t head, uint16_t tail) { return head == t
 static inline uint16_t rb_next_u16(uint16_t idx, uint16_t cap) { return (uint16_t)((idx + 1U) % cap); }
 
 /* Politique: 
-   - FAULTS: jamais drop → si plein, on écrase le plus vieux FAULT (ou tu peux décider de déclencher un PANIC).
+   - FAULTS: jamais drop → si plein, on écrase le plus vieux FAULT.
    - NORMAL: on drop le nouveau si plein (et on compte). */
 static bool push_faults(EventMsg m){
     uint16_t next = rb_next_u16(q_faults.head, EVQ_FAULTS_CAP);

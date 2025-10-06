@@ -259,6 +259,325 @@ Discarded input sections
  .debug_frame   0x00000000       0x38 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
  .ARM.attributes
                 0x00000000       0x38 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .data          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .bss.q_normal  0x00000000      0x198 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .bss.q_faults  0x00000000       0x78 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .bss.g_coalesce
+                0x00000000       0x18 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.rb_empty_u16
+                0x00000000       0x2a CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.rb_next_u16
+                0x00000000       0x2e CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.push_faults
+                0x00000000       0x94 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.push_normal
+                0x00000000       0x88 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.already_queued
+                0x00000000       0xac CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.evq_init
+                0x00000000       0x54 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.evq_set_coalesce
+                0x00000000       0x44 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.evq_push
+                0x00000000       0xbc CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.evq_pop_next
+                0x00000000      0x100 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.evq_get_stats
+                0x00000000       0x54 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .text.evq_note_ignored
+                0x00000000       0x28 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_info    0x00000000      0x5d2 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_abbrev  0x00000000      0x215 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_aranges
+                0x00000000       0x70 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_rnglists
+                0x00000000       0x54 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000      0x139 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000      0xaba CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x74 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_macro   0x00000000       0x20 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_line    0x00000000      0x582 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_str     0x00000000     0x6fc9 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .debug_frame   0x00000000      0x1b4 CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .data          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.EVARG_NONE
+                0x00000000       0x28 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .bss.g_seq_dir
+                0x00000000        0x1 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .bss.g_seq_step
+                0x00000000        0x1 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .bss.g_state   0x00000000        0x1 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.guard_eval
+                0x00000000       0x68 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.action_exec
+                0x00000000       0x78 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .rodata.FSM    0x00000000       0x3c CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .rodata.FSM_COUNT
+                0x00000000        0x4 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.fsm_init
+                0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.fsm_state
+                0x00000000       0x18 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.fsm_handle_event
+                0x00000000       0xc4 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.seq_start_begin
+                0x00000000       0x38 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.seq_stop_begin
+                0x00000000       0x38 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.seq_step
+                0x00000000      0x104 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.mark_enter_elec
+                0x00000000        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.mark_enter_gas
+                0x00000000        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.mark_enter_cool
+                0x00000000        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.mark_all_off
+                0x00000000        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .text.mark_enter_fault
+                0x00000000       0x18 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_info    0x00000000      0x653 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_abbrev  0x00000000      0x213 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_rnglists
+                0x00000000       0x63 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000       0x91 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000      0xaba CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_line    0x00000000      0x4eb CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_str     0x00000000     0x46b4 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .debug_frame   0x00000000      0x1f8 CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .data          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.EVARG_NONE
+                0x00000000       0x28 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .bss.g_cfg     0x00000000        0x5 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .bss.g_th      0x00000000        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .bss.g_provider
+                0x00000000        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .bss.g_mode    0x00000000        0xa CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.apply_active_low
+                0x00000000       0x32 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.mode_read_index
+                0x00000000       0xa8 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.deb_init
+                0x00000000       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.tris_init
+                0x00000000       0x50 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.inputs_init
+                0x00000000       0x68 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.inputs_seed_from_hw
+                0x00000000       0xc0 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.deb_tick
+                0x00000000       0x8e CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.tris_tick
+                0x00000000       0x90 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .text.inputs_tick
+                0x00000000      0x12c CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_info    0x00000000      0x5f7 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_abbrev  0x00000000      0x1ad CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_aranges
+                0x00000000       0x68 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_rnglists
+                0x00000000       0x4e CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000      0x142 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000      0xaba CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x74 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_macro   0x00000000       0x20 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_line    0x00000000      0x670 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_str     0x00000000     0x7103 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .debug_frame   0x00000000      0x188 CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .text          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .data          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .text.ms_to_ticks
+                0x00000000       0x50 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .text.tmr_set  0x00000000       0x6c CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .text.tmr_cancel
+                0x00000000       0x48 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .text.tmr_is_active
+                0x00000000       0x40 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .text.tmr_remaining_ms
+                0x00000000       0x40 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .text.tmr_tick
+                0x00000000       0x9c CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000      0xaba CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x74 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000000       0x20 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
  .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
@@ -309,6 +628,22 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .data          0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .bss           0x00000000        0x0 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0xaba CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
  .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
  .group         0x00000000        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
@@ -2927,6 +3262,10 @@ START GROUP
 LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a
 LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libm.a
 END GROUP
+LOAD CMakeFiles/polyvarium_v2.dir/Core/Src/events.c.obj
+LOAD CMakeFiles/polyvarium_v2.dir/Core/Src/fsm.c.obj
+LOAD CMakeFiles/polyvarium_v2.dir/Core/Src/inputs.c.obj
+LOAD CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
 LOAD CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
 LOAD CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
 LOAD CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
@@ -2970,7 +3309,7 @@ LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eab
                 0x08000000                g_pfnVectors
                 0x08000258                        . = ALIGN (0x4)
 
-.text           0x08000258     0x15d4
+.text           0x08000258     0x15f8
                 0x08000258                        . = ALIGN (0x4)
  *(.text)
  .text          0x08000258       0x40 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
@@ -2980,256 +3319,259 @@ LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eab
  .text.__libc_init_array
                 0x080002a8       0x48 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
                 0x080002a8                __libc_init_array
- .text.main     0x080002f0       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
-                0x080002f0                main
+ .text.tmr_init
+                0x080002f0       0x20 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+                0x080002f0                tmr_init
+ .text.main     0x08000310       0x14 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+                0x08000310                main
  .text.SystemClock_Config
-                0x08000300       0xb0 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
-                0x08000300                SystemClock_Config
+                0x08000324       0xb0 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+                0x08000324                SystemClock_Config
  .text.Error_Handler
-                0x080003b0        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
-                0x080003b0                Error_Handler
+                0x080003d4        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+                0x080003d4                Error_Handler
  .text.NMI_Handler
-                0x080003bc        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x080003bc                NMI_Handler
+                0x080003e0        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x080003e0                NMI_Handler
  .text.HardFault_Handler
-                0x080003c4        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x080003c4                HardFault_Handler
+                0x080003e8        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x080003e8                HardFault_Handler
  .text.MemManage_Handler
-                0x080003cc        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x080003cc                MemManage_Handler
+                0x080003f0        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x080003f0                MemManage_Handler
  .text.BusFault_Handler
-                0x080003d4        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x080003d4                BusFault_Handler
+                0x080003f8        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x080003f8                BusFault_Handler
  .text.UsageFault_Handler
-                0x080003dc        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x080003dc                UsageFault_Handler
+                0x08000400        0x8 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x08000400                UsageFault_Handler
  .text.SVC_Handler
-                0x080003e4        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x080003e4                SVC_Handler
+                0x08000408        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x08000408                SVC_Handler
  .text.DebugMon_Handler
-                0x080003f2        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x080003f2                DebugMon_Handler
+                0x08000416        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x08000416                DebugMon_Handler
  .text.PendSV_Handler
-                0x08000400        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x08000400                PendSV_Handler
+                0x08000424        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x08000424                PendSV_Handler
  .text.SysTick_Handler
-                0x0800040e        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
-                0x0800040e                SysTick_Handler
+                0x08000432        0xc CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x08000432                SysTick_Handler
  .text.HAL_MspInit
-                0x0800041a        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
-                0x0800041a                HAL_MspInit
+                0x0800043e        0xe CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+                0x0800043e                HAL_MspInit
  .text.__NVIC_SetPriorityGrouping
-                0x08000428       0x48 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x0800044c       0x48 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
  .text.__NVIC_GetPriorityGrouping
-                0x08000470       0x1c CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x08000494       0x1c CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x0800048c       0x54 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x080004b0       0x54 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
  .text.NVIC_EncodePriority
-                0x080004e0       0x66 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x08000504       0x66 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
  .text.HAL_NVIC_SetPriorityGrouping
-                0x08000546       0x16 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
-                0x08000546                HAL_NVIC_SetPriorityGrouping
+                0x0800056a       0x16 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x0800056a                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x0800055c       0x34 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
-                0x0800055c                HAL_NVIC_SetPriority
+                0x08000580       0x34 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x08000580                HAL_NVIC_SetPriority
  .text.HAL_SYSTICK_Config
-                0x08000590       0x44 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
-                0x08000590                HAL_SYSTICK_Config
+                0x080005b4       0x44 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x080005b4                HAL_SYSTICK_Config
  .text.HAL_SYSTICK_CLKSourceConfig
-                0x080005d4       0xb0 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
-                0x080005d4                HAL_SYSTICK_CLKSourceConfig
+                0x080005f8       0xb0 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x080005f8                HAL_SYSTICK_CLKSourceConfig
  .text.HAL_SYSTICK_GetCLKSourceConfig
-                0x08000684       0x6c CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
-                0x08000684                HAL_SYSTICK_GetCLKSourceConfig
+                0x080006a8       0x6c CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x080006a8                HAL_SYSTICK_GetCLKSourceConfig
  .text.HAL_RCC_OscConfig
-                0x080006f0      0x870 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
-                0x080006f0                HAL_RCC_OscConfig
+                0x08000714      0x870 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+                0x08000714                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x08000f60      0x370 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
-                0x08000f60                HAL_RCC_ClockConfig
+                0x08000f84      0x370 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+                0x08000f84                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x080012d0      0x258 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
-                0x080012d0                HAL_RCC_GetSysClockFreq
+                0x080012f4      0x258 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+                0x080012f4                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x08001528       0x38 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
-                0x08001528                HAL_RCC_GetHCLKFreq
+                0x0800154c       0x38 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+                0x0800154c                HAL_RCC_GetHCLKFreq
  .text.HAL_Init
-                0x08001560       0x50 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
-                0x08001560                HAL_Init
+                0x08001584       0x50 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+                0x08001584                HAL_Init
  .text.HAL_InitTick
-                0x080015b0       0xec CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
-                0x080015b0                HAL_InitTick
+                0x080015d4       0xec CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+                0x080015d4                HAL_InitTick
  .text.HAL_IncTick
-                0x0800169c       0x28 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
-                0x0800169c                HAL_IncTick
+                0x080016c0       0x28 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+                0x080016c0                HAL_IncTick
  .text.HAL_GetTick
-                0x080016c4       0x18 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
-                0x080016c4                HAL_GetTick
+                0x080016e8       0x18 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+                0x080016e8                HAL_GetTick
  .text.SystemInit
-                0x080016dc       0xe4 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
-                0x080016dc                SystemInit
+                0x08001700       0xe4 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+                0x08001700                SystemInit
  .text.Reset_Handler
-                0x080017c0       0x50 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
-                0x080017c0                Reset_Handler
+                0x080017e4       0x50 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+                0x080017e4                Reset_Handler
  .text.Default_Handler
-                0x08001810        0x2 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
-                0x08001810                HASH_IRQHandler
-                0x08001810                EXTI5_IRQHandler
-                0x08001810                I3C1_ER_IRQHandler
-                0x08001810                GPDMA2_Channel1_IRQHandler
-                0x08001810                EXTI13_IRQHandler
-                0x08001810                TIM1_CC_IRQHandler
-                0x08001810                GPDMA2_Channel3_IRQHandler
-                0x08001810                TAMP_IRQHandler
-                0x08001810                TIM6_IRQHandler
-                0x08001810                EXTI12_IRQHandler
-                0x08001810                USB_DRD_FS_IRQHandler
-                0x08001810                EXTI3_IRQHandler
-                0x08001810                GPDMA1_Channel5_IRQHandler
-                0x08001810                EXTI8_IRQHandler
-                0x08001810                GPDMA2_Channel5_IRQHandler
-                0x08001810                LPTIM2_IRQHandler
-                0x08001810                GPDMA2_Channel2_IRQHandler
-                0x08001810                EXTI0_IRQHandler
-                0x08001810                I2C2_EV_IRQHandler
-                0x08001810                FPU_IRQHandler
-                0x08001810                GPDMA1_Channel3_IRQHandler
-                0x08001810                GPDMA1_Channel7_IRQHandler
-                0x08001810                FDCAN1_IT1_IRQHandler
-                0x08001810                RAMCFG_IRQHandler
-                0x08001810                SPI1_IRQHandler
-                0x08001810                GPDMA1_Channel2_IRQHandler
-                0x08001810                ADC1_IRQHandler
-                0x08001810                I3C2_ER_IRQHandler
-                0x08001810                EXTI15_IRQHandler
-                0x08001810                USART3_IRQHandler
-                0x08001810                RTC_IRQHandler
-                0x08001810                EXTI9_IRQHandler
-                0x08001810                I3C2_EV_IRQHandler
-                0x08001810                I2C1_EV_IRQHandler
-                0x08001810                GPDMA1_Channel1_IRQHandler
-                0x08001810                TIM3_IRQHandler
-                0x08001810                RCC_IRQHandler
-                0x08001810                TIM1_TRG_COM_IRQHandler
-                0x08001810                Default_Handler
-                0x08001810                GPDMA2_Channel4_IRQHandler
-                0x08001810                TIM7_IRQHandler
-                0x08001810                GPDMA1_Channel0_IRQHandler
-                0x08001810                I3C1_EV_IRQHandler
-                0x08001810                PVD_AVD_IRQHandler
-                0x08001810                SPI2_IRQHandler
-                0x08001810                EXTI14_IRQHandler
-                0x08001810                EXTI11_IRQHandler
-                0x08001810                CRS_IRQHandler
-                0x08001810                EXTI4_IRQHandler
-                0x08001810                GPDMA2_Channel0_IRQHandler
-                0x08001810                RNG_IRQHandler
-                0x08001810                GPDMA2_Channel6_IRQHandler
-                0x08001810                TIM1_UP_IRQHandler
-                0x08001810                WWDG_IRQHandler
-                0x08001810                IWDG_IRQHandler
-                0x08001810                LPUART1_IRQHandler
-                0x08001810                FDCAN1_IT0_IRQHandler
-                0x08001810                TIM2_IRQHandler
-                0x08001810                GPDMA1_Channel4_IRQHandler
-                0x08001810                EXTI7_IRQHandler
-                0x08001810                TIM1_BRK_IRQHandler
-                0x08001810                EXTI1_IRQHandler
-                0x08001810                DAC1_IRQHandler
-                0x08001810                DTS_IRQHandler
-                0x08001810                GTZC_IRQHandler
-                0x08001810                USART2_IRQHandler
-                0x08001810                GPDMA1_Channel6_IRQHandler
-                0x08001810                GPDMA2_Channel7_IRQHandler
-                0x08001810                I2C2_ER_IRQHandler
-                0x08001810                FLASH_IRQHandler
-                0x08001810                USART1_IRQHandler
-                0x08001810                EXTI10_IRQHandler
-                0x08001810                SPI3_IRQHandler
-                0x08001810                I2C1_ER_IRQHandler
-                0x08001810                EXTI6_IRQHandler
-                0x08001810                COMP1_IRQHandler
-                0x08001810                LPTIM1_IRQHandler
-                0x08001810                ICACHE_IRQHandler
-                0x08001810                EXTI2_IRQHandler
+                0x08001834        0x2 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+                0x08001834                HASH_IRQHandler
+                0x08001834                EXTI5_IRQHandler
+                0x08001834                I3C1_ER_IRQHandler
+                0x08001834                GPDMA2_Channel1_IRQHandler
+                0x08001834                EXTI13_IRQHandler
+                0x08001834                TIM1_CC_IRQHandler
+                0x08001834                GPDMA2_Channel3_IRQHandler
+                0x08001834                TAMP_IRQHandler
+                0x08001834                TIM6_IRQHandler
+                0x08001834                EXTI12_IRQHandler
+                0x08001834                USB_DRD_FS_IRQHandler
+                0x08001834                EXTI3_IRQHandler
+                0x08001834                GPDMA1_Channel5_IRQHandler
+                0x08001834                EXTI8_IRQHandler
+                0x08001834                GPDMA2_Channel5_IRQHandler
+                0x08001834                LPTIM2_IRQHandler
+                0x08001834                GPDMA2_Channel2_IRQHandler
+                0x08001834                EXTI0_IRQHandler
+                0x08001834                I2C2_EV_IRQHandler
+                0x08001834                FPU_IRQHandler
+                0x08001834                GPDMA1_Channel3_IRQHandler
+                0x08001834                GPDMA1_Channel7_IRQHandler
+                0x08001834                FDCAN1_IT1_IRQHandler
+                0x08001834                RAMCFG_IRQHandler
+                0x08001834                SPI1_IRQHandler
+                0x08001834                GPDMA1_Channel2_IRQHandler
+                0x08001834                ADC1_IRQHandler
+                0x08001834                I3C2_ER_IRQHandler
+                0x08001834                EXTI15_IRQHandler
+                0x08001834                USART3_IRQHandler
+                0x08001834                RTC_IRQHandler
+                0x08001834                EXTI9_IRQHandler
+                0x08001834                I3C2_EV_IRQHandler
+                0x08001834                I2C1_EV_IRQHandler
+                0x08001834                GPDMA1_Channel1_IRQHandler
+                0x08001834                TIM3_IRQHandler
+                0x08001834                RCC_IRQHandler
+                0x08001834                TIM1_TRG_COM_IRQHandler
+                0x08001834                Default_Handler
+                0x08001834                GPDMA2_Channel4_IRQHandler
+                0x08001834                TIM7_IRQHandler
+                0x08001834                GPDMA1_Channel0_IRQHandler
+                0x08001834                I3C1_EV_IRQHandler
+                0x08001834                PVD_AVD_IRQHandler
+                0x08001834                SPI2_IRQHandler
+                0x08001834                EXTI14_IRQHandler
+                0x08001834                EXTI11_IRQHandler
+                0x08001834                CRS_IRQHandler
+                0x08001834                EXTI4_IRQHandler
+                0x08001834                GPDMA2_Channel0_IRQHandler
+                0x08001834                RNG_IRQHandler
+                0x08001834                GPDMA2_Channel6_IRQHandler
+                0x08001834                TIM1_UP_IRQHandler
+                0x08001834                WWDG_IRQHandler
+                0x08001834                IWDG_IRQHandler
+                0x08001834                LPUART1_IRQHandler
+                0x08001834                FDCAN1_IT0_IRQHandler
+                0x08001834                TIM2_IRQHandler
+                0x08001834                GPDMA1_Channel4_IRQHandler
+                0x08001834                EXTI7_IRQHandler
+                0x08001834                TIM1_BRK_IRQHandler
+                0x08001834                EXTI1_IRQHandler
+                0x08001834                DAC1_IRQHandler
+                0x08001834                DTS_IRQHandler
+                0x08001834                GTZC_IRQHandler
+                0x08001834                USART2_IRQHandler
+                0x08001834                GPDMA1_Channel6_IRQHandler
+                0x08001834                GPDMA2_Channel7_IRQHandler
+                0x08001834                I2C2_ER_IRQHandler
+                0x08001834                FLASH_IRQHandler
+                0x08001834                USART1_IRQHandler
+                0x08001834                EXTI10_IRQHandler
+                0x08001834                SPI3_IRQHandler
+                0x08001834                I2C1_ER_IRQHandler
+                0x08001834                EXTI6_IRQHandler
+                0x08001834                COMP1_IRQHandler
+                0x08001834                LPTIM1_IRQHandler
+                0x08001834                ICACHE_IRQHandler
+                0x08001834                EXTI2_IRQHandler
  *(.glue_7)
- .glue_7        0x08001812        0x0 linker stubs
+ .glue_7        0x08001836        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08001812        0x0 linker stubs
+ .glue_7t       0x08001836        0x0 linker stubs
  *(.eh_frame)
- *fill*         0x08001812        0x2 
- .eh_frame      0x08001814        0x0 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ *fill*         0x08001836        0x2 
+ .eh_frame      0x08001838        0x0 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
  *(.init)
- .init          0x08001814        0x4 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crti.o
-                0x08001814                _init
- .init          0x08001818        0x8 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .init          0x08001838        0x4 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crti.o
+                0x08001838                _init
+ .init          0x0800183c        0x8 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
  *(.fini)
- .fini          0x08001820        0x4 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crti.o
-                0x08001820                _fini
- .fini          0x08001824        0x8 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
-                0x0800182c                        . = ALIGN (0x4)
-                0x0800182c                        _etext = .
+ .fini          0x08001844        0x4 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crti.o
+                0x08001844                _fini
+ .fini          0x08001848        0x8 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x08001850                        . = ALIGN (0x4)
+                0x08001850                        _etext = .
 
-.vfp11_veneer   0x0800182c        0x0
- .vfp11_veneer  0x0800182c        0x0 linker stubs
+.vfp11_veneer   0x08001850        0x0
+ .vfp11_veneer  0x08001850        0x0 linker stubs
 
-.v4_bx          0x0800182c        0x0
- .v4_bx         0x0800182c        0x0 linker stubs
+.v4_bx          0x08001850        0x0
+ .v4_bx         0x08001850        0x0 linker stubs
 
-.iplt           0x0800182c        0x0
- .iplt          0x0800182c        0x0 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+.iplt           0x08001850        0x0
+ .iplt          0x08001850        0x0 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
 
-.rodata         0x0800182c       0x10
-                0x0800182c                        . = ALIGN (0x4)
+.rodata         0x08001850       0x10
+                0x08001850                        . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.AHBPrescTable
-                0x0800182c       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
-                0x0800182c                AHBPrescTable
-                0x0800183c                        . = ALIGN (0x4)
+                0x08001850       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+                0x08001850                AHBPrescTable
+                0x08001860                        . = ALIGN (0x4)
 
-.ARM.extab      0x0800183c        0x0
-                0x0800183c                        . = ALIGN (0x4)
+.ARM.extab      0x08001860        0x0
+                0x08001860                        . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x0800183c                        . = ALIGN (0x4)
+                0x08001860                        . = ALIGN (0x4)
 
-.ARM            0x0800183c        0x0
-                0x0800183c                        . = ALIGN (0x4)
-                0x0800183c                        __exidx_start = .
+.ARM            0x08001860        0x0
+                0x08001860                        . = ALIGN (0x4)
+                0x08001860                        __exidx_start = .
  *(.ARM.exidx*)
-                0x0800183c                        __exidx_end = .
-                0x0800183c                        . = ALIGN (0x4)
+                0x08001860                        __exidx_end = .
+                0x08001860                        . = ALIGN (0x4)
 
-.preinit_array  0x0800183c        0x0
-                0x0800183c                        . = ALIGN (0x4)
-                0x0800183c                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08001860        0x0
+                0x08001860                        . = ALIGN (0x4)
+                0x08001860                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x0800183c                        PROVIDE (__preinit_array_end = .)
-                0x0800183c                        . = ALIGN (0x4)
+                0x08001860                        PROVIDE (__preinit_array_end = .)
+                0x08001860                        . = ALIGN (0x4)
 
-.init_array     0x0800183c        0x4
-                0x0800183c                        . = ALIGN (0x4)
-                0x0800183c                        PROVIDE (__init_array_start = .)
+.init_array     0x08001860        0x4
+                0x08001860                        . = ALIGN (0x4)
+                0x08001860                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x0800183c        0x4 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
-                0x08001840                        PROVIDE (__init_array_end = .)
-                0x08001840                        . = ALIGN (0x4)
+ .init_array    0x08001860        0x4 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x08001864                        PROVIDE (__init_array_end = .)
+                0x08001864                        . = ALIGN (0x4)
 
-.fini_array     0x08001840        0x4
-                0x08001840                        . = ALIGN (0x4)
+.fini_array     0x08001864        0x4
+                0x08001864                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08001840        0x4 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .fini_array    0x08001864        0x4 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x08001844                        . = ALIGN (0x4)
-                0x08001844                        _sidata = LOADADDR (.data)
+                0x08001868                        . = ALIGN (0x4)
+                0x08001868                        _sidata = LOADADDR (.data)
 
-.rel.dyn        0x08001844        0x0
- .rel.iplt      0x08001844        0x0 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+.rel.dyn        0x08001868        0x0
+ .rel.iplt      0x08001868        0x0 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
 
-.data           0x20000000        0xc load address 0x08001844
+.data           0x20000000        0xc load address 0x08001868
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -3249,34 +3591,36 @@ LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eab
                 0x2000000c                        . = ALIGN (0x4)
                 0x2000000c                        _edata = .
 
-.igot.plt       0x2000000c        0x0 load address 0x08001850
+.igot.plt       0x2000000c        0x0 load address 0x08001874
  .igot.plt      0x2000000c        0x0 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
                 0x2000000c                        . = ALIGN (0x4)
 
-.bss            0x2000000c       0x20 load address 0x08001850
+.bss            0x2000000c       0x84 load address 0x08001874
                 0x2000000c                        _sbss = .
                 0x2000000c                        __bss_start__ = _sbss
  *(.bss)
  .bss           0x2000000c       0x1c /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
  *(.bss*)
- .bss.uwTick    0x20000028        0x4 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
-                0x20000028                uwTick
+ .bss.g_timers  0x20000028       0x60 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .bss.g_tmr_uptime_ticks
+                0x20000088        0x4 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .bss.uwTick    0x2000008c        0x4 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+                0x2000008c                uwTick
  *(COMMON)
-                0x2000002c                        . = ALIGN (0x4)
-                0x2000002c                        _ebss = .
-                0x2000002c                        __bss_end__ = _ebss
+                0x20000090                        . = ALIGN (0x4)
+                0x20000090                        _ebss = .
+                0x20000090                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x2000002c      0x604 load address 0x08001850
-                0x20000030                        . = ALIGN (0x8)
- *fill*         0x2000002c        0x4 
+                0x20000090      0x600 load address 0x08001874
+                0x20000090                        . = ALIGN (0x8)
                 [!provide]                        PROVIDE (end = .)
-                0x20000030                        PROVIDE (_end = .)
-                0x20000230                        . = (. + _Min_Heap_Size)
- *fill*         0x20000030      0x200 
-                0x20000630                        . = (. + _Min_Stack_Size)
- *fill*         0x20000230      0x400 
-                0x20000630                        . = ALIGN (0x8)
+                0x20000090                        PROVIDE (_end = .)
+                0x20000290                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000090      0x200 
+                0x20000690                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000290      0x400 
+                0x20000690                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -3295,184 +3639,182 @@ LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eab
  .ARM.attributes
                 0x00000096       0x38 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
  .ARM.attributes
-                0x000000ce       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+                0x000000ce       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
  .ARM.attributes
-                0x00000108       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x00000108       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .ARM.attributes
-                0x00000142       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+                0x00000142       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
  .ARM.attributes
-                0x0000017c       0x3a CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x0000017c       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
  .ARM.attributes
-                0x000001b6       0x3a CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+                0x000001b6       0x3a CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
  .ARM.attributes
-                0x000001f0       0x3a CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+                0x000001f0       0x3a CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
  .ARM.attributes
-                0x0000022a       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+                0x0000022a       0x3a CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
  .ARM.attributes
-                0x00000264       0x24 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+                0x00000264       0x3a CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
  .ARM.attributes
-                0x00000288       0x26 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x0000029e       0x24 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+ .ARM.attributes
+                0x000002c2       0x26 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
 OUTPUT(polyvarium_v2.elf elf32-littlearm)
 LOAD linker stubs
 LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc.a
 LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libm.a
 LOAD /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/libgcc.a
 
-.debug_frame    0x00000000     0x1078
+.debug_frame    0x00000000     0x118c
  .debug_frame   0x00000000       0x20 /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-memset.o)
  .debug_frame   0x00000020       0x2c /opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
- .debug_frame   0x0000004c       0x68 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_frame   0x000000b4      0x104 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_frame   0x000001b8       0x30 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_frame   0x000001e8      0x560 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_frame   0x00000748      0x264 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_frame   0x000009ac      0x66c CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_frame   0x00001018       0x60 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_frame   0x0000004c      0x114 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_frame   0x00000160       0x68 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_frame   0x000001c8      0x104 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_frame   0x000002cc       0x30 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_frame   0x000002fc      0x560 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_frame   0x0000085c      0x264 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_frame   0x00000ac0      0x66c CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_frame   0x0000112c       0x60 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
 
-.debug_info     0x00000000     0x47d8
- .debug_info    0x00000000      0x46c CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_info    0x0000046c      0x128 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_info    0x00000594       0x9f CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_info    0x00000633     0x1522 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_info    0x00001b55      0xfdf CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_info    0x00002b34     0x1069 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_info    0x00003b9d      0xc0b CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
- .debug_info    0x000047a8       0x30 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+.debug_info     0x00000000     0x4c66
+ .debug_info    0x00000000      0x469 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_info    0x00000469      0x491 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_info    0x000008fa      0x128 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_info    0x00000a22       0x9f CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_info    0x00000ac1     0x1522 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_info    0x00001fe3      0xfdf CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_info    0x00002fc2     0x1069 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_info    0x0000402b      0xc0b CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_info    0x00004c36       0x30 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
 
-.debug_abbrev   0x00000000      0xc1e
- .debug_abbrev  0x00000000      0x1bd CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_abbrev  0x000001bd       0x73 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_abbrev  0x00000230       0x45 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_abbrev  0x00000275      0x311 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_abbrev  0x00000586      0x28e CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_abbrev  0x00000814      0x2ac CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_abbrev  0x00000ac0      0x13a CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
- .debug_abbrev  0x00000bfa       0x24 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+.debug_abbrev   0x00000000      0xe14
+ .debug_abbrev  0x00000000      0x1c7 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_abbrev  0x000001c7      0x1ec CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x000003b3       0x73 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_abbrev  0x00000426       0x45 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_abbrev  0x0000046b      0x311 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_abbrev  0x0000077c      0x28e CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_abbrev  0x00000a0a      0x2ac CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_abbrev  0x00000cb6      0x13a CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_abbrev  0x00000df0       0x24 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
 
-.debug_aranges  0x00000000      0x480
+.debug_aranges  0x00000000      0x4d0
  .debug_aranges
-                0x00000000       0x30 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+                0x00000000       0x50 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
  .debug_aranges
-                0x00000030       0x60 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x00000050       0x30 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .debug_aranges
-                0x00000090       0x20 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+                0x00000080       0x60 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
  .debug_aranges
-                0x000000b0      0x140 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x000000e0       0x20 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
  .debug_aranges
-                0x000001f0       0xa0 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+                0x00000100      0x140 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
  .debug_aranges
-                0x00000290      0x1a0 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+                0x00000240       0xa0 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
  .debug_aranges
-                0x00000430       0x28 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+                0x000002e0      0x1a0 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
  .debug_aranges
-                0x00000458       0x28 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+                0x00000480       0x28 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_aranges
+                0x000004a8       0x28 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
 
 .debug_rnglists
-                0x00000000      0x343
+                0x00000000      0x37b
  .debug_rnglists
-                0x00000000       0x20 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+                0x00000000       0x38 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
  .debug_rnglists
-                0x00000020       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+                0x00000038       0x20 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .debug_rnglists
-                0x00000063       0x13 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+                0x00000058       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
  .debug_rnglists
-                0x00000076       0xec CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+                0x0000009b       0x13 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
  .debug_rnglists
-                0x00000162       0x79 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+                0x000000ae       0xec CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
  .debug_rnglists
-                0x000001db      0x134 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+                0x0000019a       0x79 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
  .debug_rnglists
-                0x0000030f       0x1b CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+                0x00000213      0x134 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
  .debug_rnglists
-                0x0000032a       0x19 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+                0x00000347       0x1b CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_rnglists
+                0x00000362       0x19 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
 
-.debug_macro    0x00000000    0x1d842
- .debug_macro   0x00000000      0x240 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00000240      0xaba CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00000cfa      0x1be CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00000eb8       0x22 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00000eda       0x6e CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00000f48       0x2a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00000f72       0x94 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001006       0x3c CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001042       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001076      0x189 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x000011ff       0x16 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001215       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001258       0x57 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x000012af       0x34 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x000012e3       0x10 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x000012f3       0x58 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0000134b      0x1de CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001529      0x369 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001892      0x19b CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001a2d       0x28 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001a55       0x42 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001a97      0x103 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001b9a       0x6a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001c04      0x1df CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001de3       0x1c CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001dff       0x29 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001e28       0xfb CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00001f23     0x1685 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x000035a8       0x5e CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00003606    0x12007 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001560d       0x6d CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001567a     0x3891 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00018f0b       0x63 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x00018f6e     0x146a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001a3d8      0x75e CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001ab36      0x166 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001ac9c      0x1a6 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001ae42      0x527 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001b369      0x40f CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001b778       0xd6 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001b84e      0x1ce CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001ba1c      0x1c3 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001bbdf      0x4ef CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001c0ce       0x58 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001c126      0x272 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001c398      0x1a6 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001c53e      0x20a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001c748      0x31f CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_macro   0x0001ca67      0x24a CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_macro   0x0001ccb1      0x240 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_macro   0x0001cef1      0x236 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_macro   0x0001d127      0x278 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_macro   0x0001d39f      0x266 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_macro   0x0001d605      0x23d CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+.debug_macro    0x00000000    0x1c2fd
+ .debug_macro   0x00000000      0x142 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_macro   0x00000142      0x240 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000382      0x1be CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000540       0x6e CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000005ae       0x94 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000642       0x57 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000699      0x19b CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000834       0x28 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000085c       0x42 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000089e       0x1c CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000008ba       0x29 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000008e3       0xfb CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000009de     0x1685 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00002063       0x5e CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000020c1    0x12007 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000140c8       0x6d CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00014135     0x3891 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000179c6       0x63 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00017a29     0x146a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00018e93      0x75e CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000195f1      0x166 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00019757      0x1a6 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x000198fd      0x527 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x00019e24      0x40f CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001a233       0xd6 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001a309      0x1ce CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001a4d7      0x1c3 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001a69a      0x4ef CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001ab89       0x58 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001abe1      0x272 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001ae53      0x1a6 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001aff9      0x20a CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001b203      0x31f CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001b522      0x24a CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_macro   0x0001b76c      0x240 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_macro   0x0001b9ac      0x236 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_macro   0x0001bbe2      0x278 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_macro   0x0001be5a      0x266 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_macro   0x0001c0c0      0x23d CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
 
-.debug_line     0x00000000     0x459a
- .debug_line    0x00000000      0x6c5 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
- .debug_line    0x000006c5      0x708 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_line    0x00000dcd      0x641 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_line    0x0000140e      0xcb6 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_line    0x000020c4     0x10a1 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_line    0x00003165      0xc07 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_line    0x00003d6c      0x7b7 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
- .debug_line    0x00004523       0x77 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+.debug_line     0x00000000     0x49f5
+ .debug_line    0x00000000      0x45c CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+ .debug_line    0x0000045c      0x6c4 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .debug_line    0x00000b20      0x708 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_line    0x00001228      0x641 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_line    0x00001869      0xcb6 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_line    0x0000251f     0x10a1 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_line    0x000035c0      0xc07 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_line    0x000041c7      0x7b7 CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_line    0x0000497e       0x77 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
 
-.debug_str      0x00000000    0xb9b40
- .debug_str     0x00000000    0xb7f5e CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
-                              0xb8253 (size before relaxing)
- .debug_str     0x000b7f5e       0xe4 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
+.debug_str      0x00000000    0xb9f47
+ .debug_str     0x00000000     0x6db4 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
+                               0x6fc3 (size before relaxing)
+ .debug_str     0x00006db4    0xb15c6 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+                              0xb825c (size before relaxing)
+ .debug_str     0x000b837a       0xe4 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
                               0xb8041 (size before relaxing)
- .debug_str     0x000b8042       0x47 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_str     0x000b845e       0x47 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
                               0xb7fa4 (size before relaxing)
- .debug_str     0x000b8089      0xc33 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_str     0x000b84a5      0xc29 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
                               0xb8d8b (size before relaxing)
- .debug_str     0x000b8cbc      0x60a CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_str     0x000b90ce      0x5ff CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
                               0xb89ee (size before relaxing)
- .debug_str     0x000b92c6      0x7b0 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_str     0x000b96cd      0x7b0 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
                               0xb9021 (size before relaxing)
- .debug_str     0x000b9a76       0x7a CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_str     0x000b9e7d       0x7a CMakeFiles/polyvarium_v2.dir/Core/Src/system_stm32h5xx.c.obj
                               0xb84ae (size before relaxing)
- .debug_str     0x000b9af0       0x50 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
+ .debug_str     0x000b9ef7       0x50 CMakeFiles/polyvarium_v2.dir/startup_stm32h503xx.s.obj
                                  0x7a (size before relaxing)
 
 .comment        0x00000000       0x43
- .comment       0x00000000       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
+ .comment       0x00000000       0x43 CMakeFiles/polyvarium_v2.dir/Core/Src/timers.c.obj
                                  0x44 (size before relaxing)
+ .comment       0x00000043       0x44 CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj
  .comment       0x00000043       0x44 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_it.c.obj
  .comment       0x00000043       0x44 CMakeFiles/polyvarium_v2.dir/Core/Src/stm32h5xx_hal_msp.c.obj
  .comment       0x00000043       0x44 CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj

@@ -1,5 +1,5 @@
 #include "fsm.h"
-
+#include "stddef.h"
 /* --------- Paramètres locaux de séquence --------- */
 #ifndef SEQ_DELAY_MS
 #define SEQ_DELAY_MS 12000U   /* délai 12 s entre étapes, adapte si besoin */
