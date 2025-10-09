@@ -71,7 +71,7 @@ void evq_init(void){
 
     /* Par défaut: coalesce ON pour les fronts et requêtes transition; OFF pour timeouts/faute */
     memset(g_coalesce, 0, sizeof(g_coalesce));
-    g_coalesce[EVT_TH_ON] = 1;
+    g_coalesce[EVT_TH_ON] = 0;
     g_coalesce[EVT_TH_OFF] = 1;
     g_coalesce[EVT_TRANSITION_REQ] = 1;
     g_coalesce[EVT_PROVIDER_TO_ELEC] = 1;

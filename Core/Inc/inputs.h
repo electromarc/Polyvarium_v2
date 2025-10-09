@@ -5,7 +5,7 @@
 
 /* Fréquence d’échantillonnage du debounce (ms) */
 #ifndef INP_TICK_MS
-#define INP_TICK_MS 10U
+#define INP_TICK_MS 1U
 #endif
 
 /* Durées de stabilisation (ms) */

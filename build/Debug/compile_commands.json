@@ -25,6 +25,12 @@
 },
 {
   "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
+  "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Core/Src/hw_inputs_stm32.c.obj -c /Users/marc/git/Polyvarium_v2/Core/Src/hw_inputs_stm32.c",
+  "file": "/Users/marc/git/Polyvarium_v2/Core/Src/hw_inputs_stm32.c",
+  "output": "CMakeFiles/polyvarium_v2.dir/Core/Src/hw_inputs_stm32.c.obj"
+},
+{
+  "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
   "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj -c /Users/marc/git/Polyvarium_v2/Core/Src/main.c",
   "file": "/Users/marc/git/Polyvarium_v2/Core/Src/main.c",
   "output": "CMakeFiles/polyvarium_v2.dir/Core/Src/main.c.obj"
@@ -46,6 +52,12 @@
   "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c",
   "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c",
   "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj"
+},
+{
+  "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
+  "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_fdcan.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_fdcan.c",
+  "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_fdcan.c",
+  "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_fdcan.c.obj"
 },
 {
   "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
@@ -115,6 +127,24 @@
 },
 {
   "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
+  "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_icache.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_icache.c",
+  "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_icache.c",
+  "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_icache.c.obj"
+},
+{
+  "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
+  "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi.c",
+  "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi.c",
+  "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi.c.obj"
+},
+{
+  "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
+  "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi_ex.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi_ex.c",
+  "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi_ex.c",
+  "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi_ex.c.obj"
+},
+{
+  "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
   "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim.c",
   "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim.c",
   "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim.c.obj"
@@ -124,6 +154,18 @@
   "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim_ex.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim_ex.c",
   "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim_ex.c",
   "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_tim_ex.c.obj"
+},
+{
+  "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
+  "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c",
+  "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c",
+  "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj"
+},
+{
+  "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",
+  "command": "/opt/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -DSTM32H503xx -DUSE_HAL_DRIVER -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Core/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I/Users/marc/git/Polyvarium_v2/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj -c /Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c",
+  "file": "/Users/marc/git/Polyvarium_v2/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c",
+  "output": "CMakeFiles/polyvarium_v2.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj"
 },
 {
   "directory": "/Users/marc/git/Polyvarium_v2/build/Debug",

@@ -52,6 +52,7 @@ target_sources(${CMAKE_PROJECT_NAME} PRIVATE
     Core/Src/fsm.c
     Core/Src/inputs.c
     Core/Src/timers.c
+    Core/Src/hw_inputs_stm32.c
 )
 
 # Add include paths

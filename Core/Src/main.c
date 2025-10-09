@@ -45,6 +45,8 @@ FDCAN_HandleTypeDef hfdcan1;
 
 SPI_HandleTypeDef hspi2;
 
+TIM_HandleTypeDef htim6;
+
 UART_HandleTypeDef huart1;
 UART_HandleTypeDef huart2;
 
@@ -60,8 +62,9 @@ static void MX_SPI2_Init(void);
 static void MX_USART1_UART_Init(void);
 static void MX_USART2_UART_Init(void);
 static void MX_ICACHE_Init(void);
+static void MX_TIM6_Init(void);
 /* USER CODE BEGIN PFP */
-
+static void App_InputsInit(void);
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
@@ -103,8 +106,25 @@ int main(void)
   MX_USART1_UART_Init();
   MX_USART2_UART_Init();
   MX_ICACHE_Init();
+  MX_TIM6_Init();
   /* USER CODE BEGIN 2 */
-  tmr_init();
+
+  // 1. Init des couches de service
+  evq_init();              // file d’événements
+  tmr_init();              // timers logiciels
+
+  // 2. Init des entrées
+  App_InputsInit();
+ 
+
+
+  // 3. Init de la FSM
+  fsm_init(ST_IDLE);       // état initial de la table FSM 
+
+
+
+  HAL_TIM_Base_Start_IT(&htim6); // démarrage du timer périodique
+
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -294,6 +314,44 @@ static void MX_SPI2_Init(void)
 }
 
 /**
+  * @brief TIM6 Initialization Function
+  * @param None
+  * @retval None
+  */
+static void MX_TIM6_Init(void)
+{
+
+  /* USER CODE BEGIN TIM6_Init 0 */
+
+  /* USER CODE END TIM6_Init 0 */
+
+  TIM_MasterConfigTypeDef sMasterConfig = {0};
+
+  /* USER CODE BEGIN TIM6_Init 1 */
+
+  /* USER CODE END TIM6_Init 1 */
+  htim6.Instance = TIM6;
+  htim6.Init.Prescaler = 25000-1;
+  htim6.Init.CounterMode = TIM_COUNTERMODE_UP;
+  htim6.Init.Period = 9;
+  htim6.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_DISABLE;
+  if (HAL_TIM_Base_Init(&htim6) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  sMasterConfig.MasterOutputTrigger = TIM_TRGO_RESET;
+  sMasterConfig.MasterSlaveMode = TIM_MASTERSLAVEMODE_DISABLE;
+  if (HAL_TIMEx_MasterConfigSynchronization(&htim6, &sMasterConfig) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  /* USER CODE BEGIN TIM6_Init 2 */
+
+  /* USER CODE END TIM6_Init 2 */
+
+}
+
+/**
   * @brief USART1 Initialization Function
   * @param None
   * @retval None
@@ -407,10 +465,13 @@ static void MX_GPIO_Init(void)
   __HAL_RCC_GPIOB_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOA, OUTPUT_DRV_CS_Pin|LED_COM_Pin|MNRST_EN_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOA, OUTPUT_DRV_CS_Pin|LED_COM_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(OUTPUT_DRV_EN_GPIO_Port, OUTPUT_DRV_EN_Pin, GPIO_PIN_RESET);
+
+  /*Configure GPIO pin Output Level */
+  HAL_GPIO_WritePin(MNRST_EN_GPIO_Port, MNRST_EN_Pin, GPIO_PIN_SET);
 
   /*Configure GPIO pins : INPUT_2_Pin INPUT_1_Pin */
   GPIO_InitStruct.Pin = INPUT_2_Pin|INPUT_1_Pin;
@@ -451,6 +512,24 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
+static void App_InputsInit(void)
+{
+    InputsConfig cfg = {
+        .thermostat_active_low = TH_ACTIVE_LOW,
+        .provider_active_low   = PROV_ACTIVE_LOW,
+        .modeA_active_low      = MODEA_ACTIVE_LOW,
+        .modeB_active_low      = MODEB_ACTIVE_LOW,
+        .modeC_active_low      = MODEC_ACTIVE_LOW,
+    };
+
+    inputs_init(&cfg);
+    inputs_seed_from_hw();// pour ne pas envoyer d’événements parasites au boot
+}
+
+void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
+{
+    if (htim->Instance == TIM6) { inputs_tick(); }   // tick des timers logiciels
+}
 
 /* USER CODE END 4 */
 

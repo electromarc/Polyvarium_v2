@@ -31,7 +31,11 @@ extern "C" {
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "hw_inputs_stm32.h"
+#include "inputs.h"
+#include "events.h" 
+#include "timers.h"
+#include "fsm.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
